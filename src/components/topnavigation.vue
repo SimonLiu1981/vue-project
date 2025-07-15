@@ -34,3 +34,11 @@
     console.log(key, keyPath)
   }
   </script>
+<style scoped>
+@reference "@/assets/main.css";
+
+.el-menu-demo {
+   
+}
+
+</style>

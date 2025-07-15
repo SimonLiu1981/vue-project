@@ -31,6 +31,6 @@ a,
   }
 
   #app {
-    
+    @apply bg-yellow-300
   }
 }
